@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/FutureLinks.png"; // Adjust the path as necessary
+import logo from "../assets/futurelinks.png"; 
 
 const Home = () => {
   return (
